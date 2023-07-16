@@ -85,24 +85,24 @@ main {
   padding-left: 240px;
   padding-right: 240px;
 }
-.imgpic1 {
+.imagepic1 {
   width: auto;
-  height: 289px;
+  height: 350px;
   padding-top: 60px;
   padding-bottom: 0px;
   padding-left: 29px;
   padding-right: 32px;
 }
-.imgpic2 {
-  width: 218px;
-  height: 289px;
+.imagepic2 {
+  width: auto;
+  height: 350px;
   padding-top: 55px;
   padding-bottom: 0px;
   padding-left: 11px;
 }
-.imgpic3 {
+.imagepic3 {
   width: auto;
-  height: 289px;
+  height: 350px;
   padding-top: 60px;
   padding-bottom: 0px;
   padding-left: 29px;
@@ -174,7 +174,7 @@ main {
 /* Subscribe Part */
 
 .subscribe {
-  background-image: url(/img/Rectangle\ 9.png);
+  background-image: url(flowerimages/flowers7.png);
   margin-left: 140px;
   margin-right: 140px;
 }
